@@ -31,4 +31,3 @@ INSERT INTO Products(Code,Name,Price,Manufacturer) VALUES(8,'Printer',270,3);
 INSERT INTO Products(Code,Name,Price,Manufacturer) VALUES(9,'Toner cartridge',66,3);
 INSERT INTO Products(Code,Name,Price,Manufacturer) VALUES(10,'DVD burner',180,2);
 
-© 2021 GitHub, Inc.
